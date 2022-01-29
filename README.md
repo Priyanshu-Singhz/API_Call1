@@ -1,4 +1,4 @@
-# betterhalf
+# API Call using jsonplaceholder
 
 A new Flutter project.
 
